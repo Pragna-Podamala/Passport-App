@@ -56,11 +56,6 @@ You should see:
   PassportEase Backend
   Running on http://localhost:5347
 
-  Demo login:
-  Email    : hire-me@anshumat.org
-  Password : HireMe@2025!
-```
-
 ### Step 3 — Open the frontend
 
 Open `frontend/index.html` directly in your browser.
